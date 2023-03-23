@@ -1,4 +1,4 @@
-### Readme for Jobarcelon 2023 Competition
+### Readme for Jobarcelona 2023 Competition
 
 ### Introduction:
 The Jobarcelona 2023 Competition was organized by Nuwe. The competition required participants to use diverse methodologies to analyze the given dataset and to build a model to predict the attrition flag. In this competition, a stacking algorithm was used, which overlapped a logistic regression on a SVM and Random Forest model to improve the accuracy of the predictions. First off, the idea was to use a gradient boosting algorithm. But, for the sake of experimentation, I decided to use stacking.
